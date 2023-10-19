@@ -2,6 +2,8 @@
   text-align: center;
 }
 
+
+
 .double-border-button {
   text-decoration: none;
   display: inline-block;
@@ -30,6 +32,11 @@
   border-color: #f1c40f;
   width: calc(100% - 10px);
   height: calc(100% + 10px);
+}
+
+.text{
+  color:#61dafb;
+  
 }
 
 @media (prefers-reduced-motion: no-preference) {
